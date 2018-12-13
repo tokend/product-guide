@@ -28,6 +28,8 @@ Step 4. Explore the campaign. You will see the following data:
 * **Details** of a crowdfunding campaign _\(start time, close time, base asset, soft cap, hard cap, the amount of tokens to sell\)_
 * **Token** details _\(name, code, max issuance amount, one-time pre-issuance amount, terms of use, etc\)_
 * **Video** from YouTube _\(a promotional video about the crowdfunding campaign\)_
-* **Updates** _\(_[_a one-way communication channel_](https://cryptofund.software/resources/product-guide/end-users/crowdfunding-campaigns/fundraiser-investors-communication/) _between the crowdfunding campaign creator and investors for sending short messages\)_
-* **Documents** _\(_[_a one-way communication channel_](https://cryptofund.software/resources/product-guide/end-users/crowdfunding-campaigns/fundraiser-investors-communication/) _between the crowdfunding campaign creator and investors for sharing any documents referred to the campaign, such as quarterly report\)_
+* **Updates** _\(_[_a one-way communication channel_](../crowdfunding-campaigns/fundraiser-investors-communication.md) _between the crowdfunding campaign creator and investors for sending short messages\)_
+* **Documents** _\(_[_a one-way communication channel_](../crowdfunding-campaigns/fundraiser-investors-communication.md) _between the crowdfunding campaign creator and investors for sharing any documents referred to the campaign, such as quarterly report\)_
+
+
 
