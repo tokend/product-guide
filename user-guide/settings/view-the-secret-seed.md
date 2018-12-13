@@ -1,6 +1,6 @@
 # View the secret seed
 
-Commonly, you might need a secret seed for two things: [log in to the offline application](https://cryptofund.software/resources/product-guide/end-users/offline-application/log-in-to-the-offline-application/) and [recover your account](https://cryptofund.software/resources/product-guide/end-users/account-recovery/). To see your secret seed, you:
+Commonly, you might need a secret seed for two things: [log in to the offline application](../../admins/offline-application/log-in-to-the-offline-application.md) and [recover your account](../user-account/account-recovery.md). To see your secret seed, you:
 
 Step 1. In the navigation bar, go to **Settings**  
 Step 2. Go to **Secret seed** tab  

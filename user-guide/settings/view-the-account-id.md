@@ -1,6 +1,6 @@
 # View the account ID
 
-Other users need to know your email or account ID to be able to [transfer tokens to your account](https://cryptofund.software/resources/product-guide/end-users/settings/wallet/transfer-tokens-between-the-accounts).
+Other users need to know your email or account ID to be able to [transfer tokens to your account](../wallet/transfer-tokens-between-the-accounts.md).
 
 To see your account ID, you:
 
