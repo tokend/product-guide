@@ -4,7 +4,9 @@ TokenD is provided with an internal exchange, which allows to trade tokens issue
 
 The basic features for users are the following:
 
-* [Monitor the open orders, market price, and trade history of the asset pairs](https://cryptofund.software/resources/product-guide/end-users/trade/internal-exchange-interface/)
-* [Place buy/sell orders](https://cryptofund.software/resources/product-guide/end-users/trade/place-buy-sell-orders/)
-* [Create orders in one click](https://cryptofund.software/resources/product-guide/end-users/trade/create-orders-in-one-click/) _\(basing on the existing orders that satisfy the user\)_
+* [Monitor the open orders, market price, and trade history of the asset pairs](internal-exchange-interface.md)
+* [Place buy/sell orders](place-buy-sell-orders.md)
+* [Create orders in one click](create-orders-in-one-click.md) _\(basing on the existing orders that satisfy the user\)_
+
+
 
