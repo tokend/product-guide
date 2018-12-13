@@ -1,6 +1,6 @@
 # Imposition of fees
 
-Only available to admins with the **fees manager** [right](https://cryptofund.software/resources/product-guide/admins/admin-account-management/rights-of-admins-on-the-platform/).
+Only available to admins with the **fees manager** [right](../admin-account-management/rights-of-admins-on-the-platform.md).
 
 **Example:** you need to impose a $0.5 fixed fee + 1% \(percentage\) fee on all outgoing USD payment operations performed by verified individual accounts and apply the configured rules to the operations in the range from $5 to $20. To do this, you:
 

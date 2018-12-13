@@ -2,7 +2,7 @@
 
 
 
-Available toadmins with the **withdraw manager** [right](https://cryptofund.software/resources/product-guide/admins/admin-account-management/rights-of-admins-on-the-platform/).
+Available toadmins with the **withdraw manager** [right](../admin-account-management/rights-of-admins-on-the-platform.md).
 
 Step 1. In the navigation bar, go to **System assets**  
 Step 2. Go to the **Withdrawals** tab  

@@ -1,6 +1,6 @@
 # Delete an admin
 
-Only available to admins with the **account manager** [right](https://cryptofund.software/resources/product-guide/admins/admin-account-management/rights-of-admins-on-the-platform/).
+Only available to admins with the **account manager** [right](rights-of-admins-on-the-platform.md).
 
 Step 1. In the navigation bar, go to **Admins**  
 Step 2. In the **Admin list**, select the specific admin  

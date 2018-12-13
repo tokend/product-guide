@@ -1,6 +1,6 @@
 # Remove an asset pair from the internal exchange
 
-Only available to admins with the **asset manager** [right](https://cryptofund.software/resources/product-guide/admins/admin-account-management/rights-of-admins-on-the-platform/).
+Only available to admins with the **asset manager** [right](../admin-account-management/rights-of-admins-on-the-platform.md).
 
 Step 1. In the navigation bar, go to **Systems assets**  
 Step 2. Go to **Asset pair index** tab  

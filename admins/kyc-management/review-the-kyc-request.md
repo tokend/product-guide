@@ -3,8 +3,8 @@
 Only available to admins with the following rights:
 
 * **KYC account manager**
-* **Verified individual account manager** \(exclusively for updating user account type from [unverified individual](https://cryptofund.software/resources/product-guide/end-users/types-of-accounts/unverified-account/) to [verified individual](https://cryptofund.software/resources/product-guide/end-users/types-of-accounts/verified-individual-account-general/)\)
-* **Corporate account manager \(exclusively for updating user account type from unverified individual to** [**corporate**](https://cryptofund.software/resources/product-guide/end-users/types-of-accounts/corporate-account/)**\)**
+* **Verified individual account manager** \(exclusively for updating user account type from [unverified individual](../../user-guide/types-of-accounts/unverified-account.md) to [verified individual](../../user-guide/types-of-accounts/verified-individual-account-general.md)\)
+* **Corporate account manager \(exclusively for updating user account type from unverified individual to** [**corporate**](../../user-guide/types-of-accounts/corporate-account.md)**\)**
 
 ### Step-by-step
 
@@ -16,7 +16,7 @@ Step 2. Optionally, enter the following search parameters in the corresponding b
 * **Account ID** of the requestor
 
 Step 3. Select the desired KYC request  
-Step 4. Review the [user KYC request](https://cryptofund.software/resources/product-guide/admins/kyc-management/user-kyc-request/)  
+Step 4. Review the [user KYC request](user-kyc-request.md)  
 Step 5. Click **Approve/Reject**
 
 In case you clicked **Reject**:
@@ -24,6 +24,6 @@ In case you clicked **Reject**:
 Step 6. In the dialogue box, in the **Reject reason** box, type the reject reason  
 Step 7. Click **Reject**
 
-**Note:** if required \(for example, one of the documents has expired\), you can later [reset user account to unverified](https://cryptofund.software/resources/product-guide/admins/kyc-management/reset-user-account-to-unverified/) BUT cannot approve a previously rejected account. In the latter case, a user will have to send the documents again.  
+**Note:** if required \(for example, one of the documents has expired\), you can later [reset user account to unverified](reset-user-account-to-unverified.md) BUT cannot approve a previously rejected account. In the latter case, a user will have to send the documents again.  
 
 

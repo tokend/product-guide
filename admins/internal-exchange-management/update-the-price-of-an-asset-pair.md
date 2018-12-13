@@ -1,6 +1,6 @@
 # Update the price of an asset pair
 
-Only available to admins with the **asset rate manager** [right](https://cryptofund.software/resources/product-guide/admins/admin-account-management/rights-of-admins-on-the-platform/).
+Only available to admins with the **asset rate manager** [right](../admin-account-management/rights-of-admins-on-the-platform.md).
 
 **Note:** this operation is not available for admins with the **asset manager** right. They are only allowed to create an asset pair and update its policies but not – update its price.
 

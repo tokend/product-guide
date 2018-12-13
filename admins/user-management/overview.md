@@ -8,11 +8,11 @@ The TokenD-based tokenization platform allows for a consistent control over the 
 * a fundraiser
 * etc.
 
-To have certain platform features available \(such as [token creation](https://cryptofund.software/resources/product-guide/end-users/user-issued-tokens/token-creation/) or [crowdfunding campaign creation](https://cryptofund.software/resources/product-guide/end-users/crowdfunding-campaigns/crowdfunding-campaign-creation/)\), users are required to update their [account type](https://cryptofund.software/resources/product-guide/end-users/types-of-accounts/overview-types-of-accounts/) by passing the corresponding [verification \(KYC\)](https://cryptofund.software/resources/product-guide/end-users/verification-kyc/overview-verification-kyc/) procedure and have it [approved by the admin](https://cryptofund.software/resources/product-guide/admins/kyc-management/review-the-kyc-request/).
+To have certain platform features available \(such as [token creation](../../user-guide/user-issued-tokens/token-creation.md) or [crowdfunding campaign creation](../../user-guide/crowdfunding-campaigns/crowdfunding-campaign-creation.md)\), users are required to update their [account type](https://tokend.gitbook.io/product-guide/user-guide/types-of-accounts/overview) by passing the corresponding [verification \(KYC\)](https://tokend.gitbook.io/product-guide/user-guide/untitled/overview) procedure and have it [approved by the admin](../kyc-management/review-the-kyc-request.md).
 
-Admins’ KYC-related flows are described in the [KYC management](https://cryptofund.software/resources/product-guide/admins/kyc-management/).
+Admins’ KYC-related flows are described in the [KYC management](../kyc-management/).
 
 ### User account management functionality
 
-Admins on the platform can [monitor users’ operations](https://cryptofund.software/resources/product-guide/admins/user-management/monitor-users-operations/) and the details of each operation, if notice anything suspicious – [block a user](https://cryptofund.software/resources/product-guide/admins/user-management/block-a-user/).
+Admins on the platform can [monitor users’ operations](monitor-users-operations.md) and the details of each operation, if notice anything suspicious – [block a user](block-a-user.md).
 

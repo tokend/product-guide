@@ -1,6 +1,6 @@
 # Details of a crowdfunding campaign
 
-To learn how to see the details of a crowdfunding campaign, check [monitor the existing crowdfunding campaigns](https://cryptofund.software/resources/product-guide/admins/crowdfunding-campaigns-management/monitor-the-existing-crowdfunding-campaigns/).
+To learn how to see the details of a crowdfunding campaign, check [monitor the existing crowdfunding campaigns](monitor-the-existing-crowdfunding-campaigns.md).
 
 ### Token details:
 
@@ -12,7 +12,7 @@ To learn how to see the details of a crowdfunding campaign, check [monitor the e
 * **Pending issuance** \(the number of tokens that are yet to be issued after the admin approval\)
 * **Issued** \(the number of tokens that have already been issued\)
 * **Available for issuance** \(the number of tokens that can be possibly issued \(**Max issuance amount** **−** **Issued amount** \)\)
-* **Policies** \(Transferable and Requires KYC. To learn more, check [properties of user-issued tokens](https://cryptofund.software/resources/product-guide/end-users/user-issued-tokens/properties-of-user-issued-tokens/)\)
+* **Policies** \(Transferable and Requires KYC. To learn more, check [properties of user-issued tokens](../../user-guide/user-issued-tokens/properties-of-user-issued-tokens.md)\)
 * **Terms** \(a pdf document that states the terms of use for the token\)
 
 ### Fund details:
@@ -25,7 +25,7 @@ To learn how to see the details of a crowdfunding campaign, check [monitor the e
 
 ### Progress \(in a specific asset\):
 
-The investment progress in the asset in which the owner of the campaign **accepts investments in**. The owner defines this when [creating a crowdfunding campaign](https://cryptofund.software/resources/product-guide/end-users/crowdfunding-campaigns/crowdfunding-campaign-creation/).**Note:** not all assets can be used as investments but only those with the **base asset** property**.** Admins define this parameter during the [creation of a system asset](https://cryptofund.software/resources/product-guide/admins/system-assets-management/system-asset-creation/).
+The investment progress in the asset in which the owner of the campaign **accepts investments in**. The owner defines this when [creating a crowdfunding campaign](../../user-guide/crowdfunding-campaigns/crowdfunding-campaign-creation.md).**Note:** not all assets can be used as investments but only those with the **base asset** property**.** Admins define this parameter during the [creation of a system asset](../system-assets-management/system-asset-creation.md).
 
 * **Price per 1 user-issued token that’s been put up for sale**
 * **Current cap \(how much has been invested with the specific asset\)**
@@ -37,7 +37,7 @@ The investment progress in the asset in which the owner of the campaign **accept
 The investment progress in total.
 
 * **Tokens sold \(the number of tokens that have been already sold\)**
-* **Current cap \(how much USD \(for example\) has been invested in total. Note: the asset in which this cap is displayed is called stats quote asset and is defined by the admin during the** [**creation of a system asset**](https://cryptofund.software/resources/product-guide/admins/system-assets-management/system-asset-creation/)**.\)**
+* **Current cap \(how much USD \(for example\) has been invested in total. Note: the asset in which this cap is displayed is called stats quote asset and is defined by the admin during the** [**creation of a system asset**](../system-assets-management/system-asset-creation.md)**.\)**
 * **Soft cap** of the crowdfunding campaign
 * **Hard cap** of the crowdfunding campaign
 

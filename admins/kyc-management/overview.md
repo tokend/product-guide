@@ -8,8 +8,10 @@ In this guide, you will get acquainted with the basic functionalities of TokenDâ
 
 ### Basic functionalities
 
-An admin with the **KYC account manager** [right](https://cryptofund.software/resources/product-guide/admins/admin-account-management/rights-of-admins-on-the-platform/) can conduct the following operations:
+An admin with the **KYC account manager** [right](../admin-account-management/rights-of-admins-on-the-platform.md) can conduct the following operations:
 
-* [Review the KYC requests](https://cryptofund.software/resources/product-guide/admins/kyc-management/review-the-kyc-request/)
-* [Reset user account to unverified](https://cryptofund.software/resources/product-guide/admins/kyc-management/reset-user-account-to-unverified/)
+* [Review the KYC requests](review-the-kyc-request.md)
+* [Reset user account to unverified](reset-user-account-to-unverified.md)
+
+
 

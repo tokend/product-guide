@@ -98,8 +98,6 @@
   * [Deposit](user-guide/wallet/deposit.md)
   * [Withdraw](user-guide/wallet/withdraw.md)
   * [Transfer tokens between the accounts](user-guide/wallet/transfer-tokens-between-the-accounts.md)
-  * [Mass transfers](user-guide/wallet/mass-transfers.md)
-  * [Create a CSV file for mass transfer](user-guide/wallet/create-a-csv-file-for-mass-transfer.md)
   * [Dashboard](user-guide/wallet/dashboard.md)
   * [Add the token to your wallet](user-guide/wallet/add-the-token-to-your-wallet.md)
 * [User-issued tokens](user-guide/user-issued-tokens/README.md)

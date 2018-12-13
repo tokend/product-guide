@@ -4,7 +4,7 @@ The process of token issuance can be classified as the process of distribution o
 
 ### Manual issuance <a id="manual-issuance"></a>
 
-Only available to admins with the **asset manager** and **issuance manager** [rights](https://cryptofund.software/resources/product-guide/admins/admin-account-management/rights-of-admins-on-the-platform/).
+Only available to admins with the **asset manager** and **issuance manager** [rights](../admin-account-management/rights-of-admins-on-the-platform.md).
 
 Manual issuance implies that the admin transfers the specified amount of tokens on the wallets of certain users. The admin flow is the following:
 
@@ -17,7 +17,7 @@ Step 6. In the **Amount** box, enter the amount of issuance
 Step 7. Click **Issue**  
 Step 8. In the dialogue box, click **Submit**
 
-_**Note:** the tokens will not be issued in case a user didn’t_ [_add it to their wallet_](https://cryptofund.software/resources/product-guide/end-users/Wallet/add-the-token-to-your-wallet/)_._
+_**Note:** the tokens will not be issued in case a user didn’t_ [_add it to their wallet_](../../user-guide/wallet/add-the-token-to-your-wallet.md)_._
 
 ### Automatic issuance <a id="automatic-issuance"></a>
 

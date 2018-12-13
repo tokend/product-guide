@@ -1,6 +1,6 @@
 # Sign in
 
-_**Note: if you don’t have an admin account, check the**_ [_**sign up flow**_](https://cryptofund.software/resources/product-guide/admins/admin-account/sign-up/)_**.**_
+_**Note: if you don’t have an admin account, check the**_ [_**sign up flow**_](sign-up.md)_**.**_
 
 Step 1. In the **Admin panel,** click **Sign in**  
 Step 2. In the **Username** box, type your username  

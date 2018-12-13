@@ -12,7 +12,7 @@ Step 4. Optionally, select/clear the **Open only** check box \(if select, you wi
 Step 5. Select the desired crowdfunding campaign  
 Step 6. In the **Fund overview** page, monitor the following data about the crowdfunding campaign by switching between the corresponding tabs:
 
-* [**Details**](https://cryptofund.software/resources/product-guide/admins/crowdfunding-campaigns-management/details-of-a-crowdfunding-campaign/)
+* [**Details**](details-of-a-crowdfunding-campaign.md)
 * **Participants** \(see those who have made investments\)
 * **Full description** \(a text that describes the underlying concept of the particular crowdfunding campaign\)
 * **Corporate user** \(information on the creator of the crowdfunding campaign\)

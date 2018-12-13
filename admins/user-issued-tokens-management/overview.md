@@ -1,9 +1,9 @@
 # Overview
 
-Users on the platform can [create](https://cryptofund.software/resources/product-guide/end-users/user-issued-tokens/token-creation/), [pre-issue](https://cryptofund.software/resources/product-guide/end-users/user-issued-tokens/token-pre-issuance/), and [issue](https://cryptofund.software/resources/product-guide/end-users/user-issued-tokens/token-issuance/) tokens and use them for their own purposes, whether it be:
+Users on the platform can [create](../../user-guide/user-issued-tokens/token-creation.md), [pre-issue](../../user-guide/user-issued-tokens/token-pre-issuance.md), and [issue](../../user-guide/user-issued-tokens/token-issuance.md) tokens and use them for their own purposes, whether it be:
 
-* [crowdfunding campaigns](https://cryptofund.software/resources/product-guide/end-users/crowdfunding-campaigns/overview-crowdfunding-campaign/) \(**Note:** crowdfunding campaign creation requests are to be [reviewed by the admin](https://cryptofund.software/resources/product-guide/admins/crowdfunding-campaigns-management/review-the-crowdfunding-campaign-creation-request/)\)
+* [crowdfunding campaigns](https://tokend.gitbook.io/product-guide/user-guide/crowdfunding-campaigns/overview) \(**Note:** crowdfunding campaign creation requests are to be [reviewed by the admin](../crowdfunding-campaigns-management/review-the-crowdfunding-campaign-creation-request.md)\)
 * any business purposes \(**Example:** a group of companies can issue a token \(common only for them\) on the platform and use it for their internal business operations. It can be some loyalty campaign or anything else related to the reconciliation of payments.\)
 
-Admins on the TokenD-based platform are provided with the functionality to review the requests on [creation](https://cryptofund.software/resources/product-guide/admins/user-issued-tokens-admins/review-the-token-creation-request/) and [pre-issuance](https://cryptofund.software/resources/product-guide/admins/user-issued-tokens-admins/review-the-token-pre-issuance-request/) of user-issued tokens.
+Admins on the TokenD-based platform are provided with the functionality to review the requests on [creation](review-the-token-creation-request.md) and [pre-issuance](review-the-token-pre-issuance-request.md) of user-issued tokens.
 

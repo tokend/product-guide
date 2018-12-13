@@ -4,5 +4,5 @@ The request on the pre-issuance of user-issued tokens contains the following inf
 
 * **Amount of tokens to be pre-issued**
 * **Asset code**
-* **Status** \(to learn more, check [token pre-issuance request states](https://cryptofund.software/resources/product-guide/admins/user-issued-tokens-admins/token-pre-issuance-request-states/)\)
+* **Status** \(to learn more, check [token pre-issuance request states](token-pre-issuance-request-states.md)\)
 
