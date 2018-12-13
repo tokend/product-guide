@@ -1,8 +1,6 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [User account](new-page.md)
-* [Untitled](untitled.md)
 
 ## Admins
 
