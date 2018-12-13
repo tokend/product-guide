@@ -1,0 +1,6 @@
+# Overview
+
+One of the options for users who’ve [created](https://cryptofund.software/resources/product-guide/end-users/user-issued-tokens/token-creation/) and [pre-issued](https://cryptofund.software/resources/product-guide/end-users/user-issued-tokens/token-pre-issuance/) their tokens on the platform \(with the approval of admin\) is to create token sales \(aka crowdfunding campaigns\). Users define the terms of their token sale, such as **soft cap** and **hard cap**, **start** and **end time**, **amount** of tokens to sell, etc \(to learn more, check the end-user guide on [crowdfunding campaigns](https://cryptofund.software/resources/product-guide/end-users/crowdfunding-campaigns/overview-crowdfunding-campaign/)\).
+
+Admins are provided with a manageable interface, which allows to [monitor the crowdfunding campaigns](https://cryptofund.software/resources/product-guide/admins/crowdfunding-campaigns-management/monitor-the-existing-crowdfunding-campaigns/), [see the participants ](https://cryptofund.software/resources/product-guide/admins/crowdfunding-campaigns-management/see-the-participants-of-a-crowdfunding-campaign/)of a campaign, and [review the requests on the creation](https://cryptofund.software/resources/product-guide/admins/crowdfunding-campaigns-management/review-the-crowdfunding-campaign-creation-request/) of them.
+

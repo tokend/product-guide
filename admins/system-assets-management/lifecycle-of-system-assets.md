@@ -1,0 +1,7 @@
+# Lifecycle of system assets
+
+1. System asset [creation](https://cryptofund.software/resources/product-guide/admins/system-assets-management/system-asset-creation/) _\(in other words, you announce the release of the token. Users can already see it on the platform and even_ [_add it to their wallet_](https://cryptofund.software/resources/product-guide/end-users/Wallet/Add-the-token-to-your-wallet/) _but cannot operate with it \(trade/transfer\). Coins do not actually exist at this point. It’s just an announcement.\)_  
+2. System asset [pre-issuance](https://cryptofund.software/resources/product-guide/admins/system-assets-management/system-asset-pre-issuance/) _\(at this stage, tokens already actually exist but are not yet distributed among users’ wallets\)_  
+3. System asset [issuance](https://cryptofund.software/resources/product-guide/admins/system-assets-management/system-asset-issuance/) _\(tokens are being distributed among users’ wallets\)_  
+4. Tokens are being [traded](https://cryptofund.software/resources/product-guide/end-users/trade/overview-trade/), [invested](https://cryptofund.software/resources/product-guide/end-users/invest/overview-invest/) \(in the [crowdfunding campaigns](https://cryptofund.software/resources/product-guide/end-users/crowdfunding-campaigns/overview-crowdfunding-campaign/)\), and [transferred](https://cryptofund.software/resources/product-guide/end-users/Wallet/transfer-tokens-between-the-accounts/) by the users on the platform
+

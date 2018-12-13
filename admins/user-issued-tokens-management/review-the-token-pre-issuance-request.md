@@ -1,0 +1,15 @@
+# Review the token pre-issuance request
+
+Only available to admins with the **user issuance manager** [right](https://cryptofund.software/resources/product-guide/admins/admin-account-management/rights-of-admins-on-the-platform/).
+
+Step 1. In the navigation bar, go to **Tokens**  
+Step 2. Go to the **Pre-issuances** tab  
+Step 3. Optionally, in the **Asset** list, select the asset \(you can select ‘All’ as well\)  
+Step 4. Review the [token pre-issuance request](https://cryptofund.software/resources/product-guide/admins/user-issued-tokens-admins/token-pre-issuance-request/)  
+Step 5. On the right side of the request, click **Accept/Reject**
+
+If you clicked **Reject:**
+
+Step 6. In the dialogue box, in the **Reject reason** box, type the reject reason  
+Step 7. Click **Submit rejection** \(if you click **Cancel**, you will be redirected back to the **Pre-issuances** tab\)
+
