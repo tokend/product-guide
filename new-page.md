@@ -1,23 +1,12 @@
-# New page
+# User account
 
-## Getting Super Powers
+## Overview
 
-Becoming a super hero is a fairly straight forward process:
+To make advantage of the platform, a potential investor/token issuer/fundraiser, etc. will be required to perform certain basic steps, namely, [register an account](https://cryptofund.software/resources/product-guide/end-users/user-account/registration/) and [sign in](https://cryptofund.software/resources/product-guide/end-users/user-account/sign-in-sign-out/).
 
-```
-$ give me super-powers
-```
+In case a user forget or lost the password, there’s a possibility to [recover an account](https://cryptofund.software/resources/product-guide/end-users/user-account/account-recovery/) using the **seed**. However, if the **seed** is lost, then access to the account will be impossible to recover.
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
 
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
 
 
 
