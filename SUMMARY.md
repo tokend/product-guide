@@ -101,7 +101,7 @@
   * [Dashboard](user-guide/wallet/dashboard.md)
   * [Add the token to your wallet](user-guide/wallet/add-the-token-to-your-wallet.md)
 * [User-issued tokens](user-guide/user-issued-tokens/README.md)
-  * [Overview - uit](user-guide/user-issued-tokens/overview.md)
+  * [Overview](user-guide/user-issued-tokens/overview.md)
   * [Token creation](user-guide/user-issued-tokens/token-creation.md)
   * [Token pre-issuance](user-guide/user-issued-tokens/token-pre-issuance.md)
   * [Pre-issuance file upload](user-guide/user-issued-tokens/pre-issuance-file-upload.md)
