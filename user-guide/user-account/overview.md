@@ -1,4 +1,4 @@
-# Overview
+# Overview ac
 
 To make advantage of the platform, a potential investor/token issuer/fundraiser, etc. will be required to perform certain basic steps, namely, [register an account](registration.md) and [sign in](https://cryptofund.software/resources/product-guide/end-users/user-account/sign-in-sign-out/).
 
