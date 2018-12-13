@@ -8,5 +8,5 @@ In the navigation bar, go to **Dashboard** and select the **asset**. You will se
 * All the operations fulfilled with the selected asset _\(deposit, transfer, withdrawal, etc\)_
 * The details of all operations _\(who is the sender and receiver, what is the amount, date, fees, etc\)_
 
-_**Note**: To see a specific token in the dashboard you have to_ [_add it to your wallet_](https://cryptofund.software/resources/product-guide/end-users/Wallet/Add-the-token-to-your-wallet/)_._
+_**Note**: To see a specific token in the dashboard you have to_ [_add it to your wallet_](add-the-token-to-your-wallet.md)_._
 
