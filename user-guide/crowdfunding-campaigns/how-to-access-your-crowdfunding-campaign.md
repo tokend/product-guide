@@ -2,8 +2,8 @@
 
 There are two ways:
 
-* [Via Requests](https://cryptofund.software/resources/product-guide/end-users/Crowdfunding-campaigns/how-to-access-your-crowdfunding-campaign/#via-requests) _\(**Note:** only a corporate user can follow this flow\)_
-* [Via Explore funds](https://cryptofund.software/resources/product-guide/end-users/crowdfunding-campaigns/how-to-access-your-crowdfunding-campaign/#via-explore-funds)
+* [Via Requests](how-to-access-your-crowdfunding-campaign.md#via-requests) _\(**Note:** only a corporate user can follow this flow\)_
+* [Via Explore funds](how-to-access-your-crowdfunding-campaign.md#via-explore-funds)
 
 ### Via Requests <a id="via-requests"></a>
 

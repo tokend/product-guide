@@ -1,8 +1,8 @@
 # Crowdfunding campaign creation
 
-By this stage, the token which you plan to put up for sale on the campaign should already be [created](https://cryptofund.software/resources/product-guide/end-users/user-issued-tokens/token-creation/) and [pre-issued](https://cryptofund.software/resources/product-guide/end-users/user-issued-tokens/token-pre-issuance/).
+By this stage, the token which you plan to put up for sale on the campaign should already be [created](../user-issued-tokens/token-creation.md) and [pre-issued](../user-issued-tokens/token-pre-issuance.md).
 
-_**Note:** only corporate users can create their crowdfunding campaigns. To learn more, check the_ [_types of accounts in TokenD_](https://cryptofund.software/resources/product-guide/end-users/types-of-accounts/overview-types-of-accounts/)_._
+_**Note:** only corporate users can create their crowdfunding campaigns. To learn more, check the_ [_types of accounts in TokenD_](../types-of-accounts/)_._
 
 ### Step-by-step <a id="step-by-step"></a>
 
@@ -33,8 +33,8 @@ Step 15. In the dialog box, enter the ID of the youtube video about your campaig
 Step 16. In the **Full description** box, type the full description of your campaign, where you describe the underlying concept of your project  
 Step 17. Click **Create fund**  
 Step 18. Click **Confirm**  
-Step 19. Wait for the admin approval _\(the flow on the part of admin is described in the_ [_crowdfunding campaign management_](https://cryptofund.software/resources/product-guide/admins/crowdfunding-campaigns-management/overview-crowdfunding-campaigns-management/)_. **Note:** you can_ [_check the state of your request_ ](https://cryptofund.software/resources/product-guide/end-users/user-issued-tokens/check-the-requests-state/)_and even_ [_update it_](https://cryptofund.software/resources/product-guide/end-users/crowdfunding-campaigns/update-the-crowdfunding-creation-request/) _while it’s pending\)_
+Step 19. Wait for the admin approval _\(the flow on the part of admin is described in the_ [_crowdfunding campaign management_](../../admins/crowdfunding-campaigns-management/)_. **Note:** you can_ [_check the state of your request_ ](../user-issued-tokens/check-the-requests-state.md)_and even_ [_update it_](update-the-crowdfunding-creation-request.md) _while it’s pending\)_
 
-After your campaign has been confirmed, you can [monitor it on the Explore funds page](https://cryptofund.software/resources/product-guide/end-users/invest/explore-crowdfunding-campaigns/) ****along with other users on the platform. There you can also [communicate](https://cryptofund.software/resources/product-guide/end-users/crowdfunding-campaigns/fundraiser-investors-communication/) with your potential and actual investors. You can also [access your crowdfunding campaign](https://cryptofund.software/resources/product-guide/end-users/crowdfunding-campaigns/how-to-access-your-crowdfunding-campaign/) via **Requests.**  
+After your campaign has been confirmed, you can [monitor it on the Explore funds page](../invest/explore-crowdfunding-campaigns.md) ****along with other users on the platform. There you can also [communicate](fundraiser-investors-communication.md) with your potential and actual investors. You can also [access your crowdfunding campaign](how-to-access-your-crowdfunding-campaign.md#via-requests) via **Requests.**  
 
 
