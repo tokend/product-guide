@@ -6,16 +6,15 @@ Step 3. In the **Password** box, type the password to your account _\(**Importan
 Step 4. In the **Password confirmation** box, type the password again  
 Step 5. In the **Save this seed** box, copy the seed _\(a seed is a secret data that proves your ownership of the account\)_
 
-**Note:** Put this **seed** into a safe and secret place _\(for example, a decrypted file on your computer. **Important:** a person who has the seed controls the account, so NEVER expose it anywhere and store it securely\)_  
-
+**Note:** Put this **seed** into a safe and secret place _\(for example, a decrypted file on your computer. **Important:** a person who has the seed controls the account, so NEVER expose it anywhere and store it securely\)_
 
 Step 6. In the **Sign up** page, click **Sign up** _\(you will be redirected to the next web page\)_  
 Step 7. On the next web page, copy your **Account ID** directly or scan the displayed **QR code**  
 Step 8. Do not close or reload the webpage! _\(you will be performing next steps of the flow on this specific web page. It will be reloaded automatically when the existing admin on the platform creates an account with your **account ID.\)**_  
-Step 9. Transmit your **account id** to the admin with the **account manager** [right](https://tokend.gitbook.io/product-guide/admins/admin-account-management/overview) _\(via any external communication channel: email, phone call, or even a face-to-face meeting if the security requirements are corresponding\)_  
+Step 9. Transmit your **account id** to the admin with the **account manager** [right](../admin-account-management/rights-of-admins-on-the-platform.md) _\(via any external communication channel: email, phone call, or even a face-to-face meeting if the security requirements are corresponding\)_  
 Step 10. Wait while admin [adds an account](../admin-account-management/add-an-admin-account.md) with your account ID _\(once your account is added, you will be redirected to the **Two-factor authentication** page\)_
 
-_**Note:** in case your sign up flow has been interrupted \(internet connection loss, a problem with your device, etc.\), you can still proceed with it. For this, you need to start the **sign up**flow again but this time, instead of copying the secret seed in **Step** **5**, enter the **seed** you have previously obtained during the “interrupted” sign up flow._
+_**Note:** in case your sign up flow has been interrupted \(internet connection loss, a problem with your device, etc.\), you can still proceed with it. For this, you need to start the **sign up** flow again but this time, instead of copying the secret seed in **Step** **5**, enter the **seed** you have previously obtained during the “interrupted” sign up flow._
 
 Step 11. On the **Two-factor authentication** page, copy the displayed code _\(**Important:** this is a secret code. Do not expose it to anyone.\)_  
 Step 12. Enter the copied code into your authenticator app or scan the displayed QR code _\(you can use Google Authenticator or any other app that supports the TOTP algorithm\)_  
