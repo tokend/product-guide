@@ -1,4 +1,4 @@
-# Overview-Crowdfunding campaigns
+# Overview
 
 Since one of the options for users is to create and pre-issue their custom tokens, the platform is provided with the functionality allowing for a fully-fledged crowdfunding ecosystem, where users can [explore](../invest/explore-crowdfunding-campaigns.md) and [invest](../invest/invest-in-crowdfunding-campaigns.md) in the crowdfunding campaigns of others and, of course, [create](crowdfunding-campaign-creation.md) their own.
 

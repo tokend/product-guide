@@ -1,4 +1,4 @@
-# Overview-User account
+# Overview
 
 To make advantage of the platform, a potential investor/token issuer/fundraiser, etc. will be required to perform certain basic steps, namely, [register an account](registration.md) and [sign in](sign-in-sign-out.md).
 

@@ -1,4 +1,4 @@
-# Overview-User-issued tokens
+# Overview
 
 Tokenization platform built with TokenD presumes the issuance of tokens not exclusively on the part of admins of the platform, but on the part of the users as well. These users are designated as corporate users. Among all the [types of accounts ](https://tokend.gitbook.io/product-guide/user-guide/types-of-accounts/overview)on the platform, the corporate account comes with the biggest scope of abilities, yet the [KYC demands](../untitled/corporate-account-kyc.md) for this account are different compared with the individual accounts.
 

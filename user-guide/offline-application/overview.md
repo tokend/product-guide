@@ -1,4 +1,4 @@
-# Overview-Offline application
+# Overview
 
 Offline application is an important tool for token pre-issuance. It is used by both admins and corporate users on the platform.
 

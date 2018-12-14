@@ -1,4 +1,4 @@
-# Overview-Verification \(KYC\)
+# Overview
 
 TokenD comes with the ready-to-use KYC solutions, which allow identifying [user accounts](../user-account/overview.md) according to at least three basic categories: unverified, verified individual, and corporate.
 
