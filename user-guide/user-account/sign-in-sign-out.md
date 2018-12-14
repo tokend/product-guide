@@ -3,8 +3,8 @@
 ### Sign in <a id="sign-in"></a>
 
 Step 1. Go to the **Sign in** page  
-Step 2. In the **Email** box, type your email \(if you don’t have an account, check [how to register on the platform](https://cryptofund.software/resources/product-guide/end-users/user-account/registration/).\)  
-Step 3. In the **Password** box, type your password _\(in case you forget or lost your password, you can set up a new one with the help of_ [_account recovery_](https://cryptofund.software/resources/product-guide/end-users/account-recovery/)_\)_  
+Step 2. In the **Email** box, type your email \(if you don’t have an account, check [how to register on the platform](registration.md).\)  
+Step 3. In the **Password** box, type your password _\(in case you forget or lost your password, you can set up a new one with the help of_ [_account recovery_](account-recovery.md)_\)_  
 Step 4. Click **Sign in**  
 Step 5. If enabled, enter the 2FA in the **Verification code** box and click **Submit**  
 Step 6. You’re logged in

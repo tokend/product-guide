@@ -13,5 +13,5 @@ Step 4. In the **Password** box, type the new password to your account
 Step 5. In the **Confirm password** box, type the password again  
 Step 6. Click **Recover**
 
-You will be redirected to the [**Sign in**](https://cryptofund.software/resources/product-guide/end-users/user-account/sign-in-out/) ****page
+You will be redirected to the [**Sign in**](sign-in-sign-out.md) ****page
 
