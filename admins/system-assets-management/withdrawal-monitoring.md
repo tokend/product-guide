@@ -1,7 +1,5 @@
 # Withdrawal monitoring
 
-
-
 Available toadmins with the **withdraw manager** [right](../admin-account-management/rights-of-admins-on-the-platform.md).
 
 Step 1. In the navigation bar, go to **System assets**  

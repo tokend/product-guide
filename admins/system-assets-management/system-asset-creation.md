@@ -1,6 +1,6 @@
 # System asset creation
 
-Only available to admins with the **asset manager** [right](system-asset-creation.md).
+Only available to admins with the **asset manager** [right](../admin-account-management/rights-of-admins-on-the-platform.md).
 
 ### Step-by-step <a id="step-by-step"></a>
 
@@ -14,7 +14,7 @@ Step 7. In the **Initial pre-issued amount**, enter the amount of coins that wil
 Step 8. In the **Maximum tokens** box, enter the maximum amount of tokens that may ever be issued _\(**Note**: you won’t be able to change the maximum tokens amount once the token is created\)  
 ****_Step 9. Click **Select file** and upload the file that states the token’s **terms of use** agreement  
 Step 10. Select/clear the **Transferable** check box _\(this property defines whether the token can be transferred. To learn more, check_ [_properties of system assets_](properties-of-system-assets.md)_.\)_  
-Step 11. Select/clear the **Base asset** check box _\(If selected, users will be able to invest this token in the_ [_crowdfunding campaigns_](https://tokend.gitbook.io/product-guide/user-guide/crowdfunding-campaigns/overview) _of other users. To learn more, check_ [_properties of system assets_](properties-of-system-assets.md)_.\)_  
+Step 11. Select/clear the **Base asset** check box _\(If selected, users will be able to invest this token in the_ [_crowdfunding campaigns_](../../user-guide/crowdfunding-campaigns/overview.md) _of other users. To learn more, check_ [_properties of system assets_](properties-of-system-assets.md)_.\)_  
 Step 12. Select/clear the **Stats quote asset** check box _\(If selected, users will see their dashboard balance in this specific asset. To learn more, check_ [_properties of system assets_](properties-of-system-assets.md)_.\)_  
 Step 13. Select/clear the **Withdrawable** check box _\(if cleared, users won’t be able to withdraw this asset from the platform\)_  
 Step 14. Select/clear the **Two step withdrawal** checkbox _\(this property significantly increases the security parameter\)_  
