@@ -5,7 +5,7 @@
 ## End Users
 
 * [User account](user-guide/user-account/README.md)
-  * [Overview ac](user-guide/user-account/overview.md)
+  * [Overview](user-guide/user-account/overview.md)
   * [Registration](user-guide/user-account/registration.md)
   * [Sign in/Sign out](user-guide/user-account/sign-in-sign-out.md)
   * [Account recovery](user-guide/user-account/account-recovery.md)
