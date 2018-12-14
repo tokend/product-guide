@@ -15,7 +15,7 @@ Step 3. Select the desired KYC request
 
 Step 4. Click **Reset to unverified**
 
-**Note:** you can only reset if a user account has been previously updated to one of the **verified types \(General or Corporate\).** To learn more, check [types of accounts](https://tokend.gitbook.io/product-guide/user-guide/types-of-accounts).
+**Note:** you can only reset if a user account has been previously updated to one of the **verified types \(General or Corporate\).** To learn more, check [types of accounts](../../user-guide/types-of-accounts/overview.md).
 
 ### Via Users
 

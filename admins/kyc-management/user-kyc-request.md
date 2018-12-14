@@ -14,5 +14,5 @@ State of the request \(approved, rejected, waiting for review\).
 
 ### KYC information
 
-The information a user provides is different depending on the KYC procedure to which a user applies \([general](../../user-guide/untitled/general-account-kyc.md) or [corporate](../../user-guide/untitled/corporate-account-kyc.md)\). To learn more, check [verification KYC](https://tokend.gitbook.io/product-guide/user-guide/untitled/overview) in the guide for end-users.
+The information a user provides is different depending on the KYC procedure to which a user applies \([general](../../user-guide/untitled/general-account-kyc.md) or [corporate](../../user-guide/untitled/corporate-account-kyc.md)\). To learn more, check [verification KYC](../../user-guide/untitled/overview.md) in the guide for end-users.
 

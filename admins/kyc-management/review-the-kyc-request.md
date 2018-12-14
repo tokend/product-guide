@@ -4,7 +4,7 @@ Only available to admins with the following rights:
 
 * **KYC account manager**
 * **Verified individual account manager** \(exclusively for updating user account type from [unverified individual](../../user-guide/types-of-accounts/unverified-account.md) to [verified individual](../../user-guide/types-of-accounts/verified-individual-account-general.md)\)
-* **Corporate account manager \(exclusively for updating user account type from unverified individual to** [**corporate**](../../user-guide/types-of-accounts/corporate-account.md)**\)**
+* **Corporate account manager** \(exclusively for updating user account type from unverified individual to [corporate](../../user-guide/types-of-accounts/corporate-account.md)\)
 
 ### Step-by-step
 
