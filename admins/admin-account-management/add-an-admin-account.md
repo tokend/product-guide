@@ -2,7 +2,7 @@
 
 Only available to admins with the **account manager** [right](rights-of-admins-on-the-platform.md).
 
-_**Note:** To register a new admin account, you should know the account ID of the requester, who gets this ID during the_ [_sign up_](https://cryptofund.software/resources/product-guide/admins/admin-account/sign-up/) _process._
+_**Note:** To register a new admin account, you should know the account ID of the requester, who gets this ID during the_ [_sign up_](../admin-account/sign-up.md) _process._
 
 ### Step-by-step <a id="step-by-step"></a>
 

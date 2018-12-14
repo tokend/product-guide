@@ -1,4 +1,4 @@
-# Overview
+# Overview ac
 
 The process of admin registration, unlike [user registration](../../user-guide/user-account/registration.md), is rather more earnest and implies greater responsibility. Which is why it includes an intermediate step for a higher security.
 
