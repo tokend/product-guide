@@ -1,4 +1,4 @@
-# Overview
+# Overview-Trade
 
 TokenD is provided with an internal exchange, which allows to trade tokens issued by both admins and users on the platform. _To learn more about different types of assets in TokenD, check the types of assets on the platform._
 

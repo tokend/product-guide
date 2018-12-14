@@ -1,4 +1,4 @@
-# Overview
+# Overview- Invest
 
 The platform is designed so that users can create their own internal market, where some of them [create crowdfunding campaigns](../crowdfunding-campaigns/crowdfunding-campaign-creation.md) and sell their tokens, others – have an opportunity to invest in such token sales.
 

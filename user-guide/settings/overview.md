@@ -1,4 +1,4 @@
-# Overview
+# Overview-Settings
 
 The settings page for end-users is brief and concise. It contains the most essential settings and information split into 4 sections:
 
