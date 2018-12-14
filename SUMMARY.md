@@ -85,7 +85,7 @@
   * [Threshold levels management](admins/admin-account-management/threshold-levels-management.md)
   * [Delete an admin](admins/admin-account-management/delete-an-admin.md)
 * [System assets management](admins/system-assets-management/README.md)
-  * [Overview](admins/system-assets-management/overview.md)
+  * [Overview----System assets management](admins/system-assets-management/overview.md)
   * [Types of assets on the platform](admins/system-assets-management/types-of-assets-on-the-platform.md)
   * [Lifecycle of system assets](admins/system-assets-management/lifecycle-of-system-assets.md)
   * [System asset creation](admins/system-assets-management/system-asset-creation.md)
