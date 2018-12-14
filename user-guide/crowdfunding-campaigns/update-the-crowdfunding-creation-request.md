@@ -9,5 +9,5 @@ Step 4. Select the request you want to update
 Step 5. Click on the![](../../.gitbook/assets/screen-shot-2018-12-13-at-17.23.53.png)icon on the right  
 Step 6. Click **Update**
 
-You will be redirected to the **Create sell** page, where you can update any data of this request _\(so you can follow the same_ [_crowdfunding campaign creation_](https://cryptofund.software/resources/product-guide/end-users/crowdfunding-campaigns/crowdfunding-campaign-creation/) _guide\)_
+You will be redirected to the **Create sell** page, where you can update any data of this request _\(so you can follow the same_ [_crowdfunding campaign creation_](crowdfunding-campaign-creation.md) _guide\)_
 

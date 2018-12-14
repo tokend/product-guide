@@ -18,7 +18,7 @@ Step 9. Select/clear the **I want to make additional issuance later** check box 
 Step 10. In the **Pre-issued asset signer** box, enter the public key which will later be used to pre-issue the tokens _\(**Note:** this step is essential only if you selected the **I want to make additional issuance later** check box\)_  
 Step 11. In the **Initial pre-issued amount** box, enter the amount of coins that will be pre-issued automatically after admin approved the token creation request \(You can set 0 as well. _**Note:** this step is only essential if you selected the **I want to make additional issuance later** check box\)_  
 Step 12. Click **Submit**  
-Step 13. Wait for the [admin approval](../../admins/user-issued-tokens-management/review-the-token-creation-request.md) _\(the flow on the part of admin is described in_ [_user tokens management_](https://tokend.gitbook.io/product-guide/admins/user-issued-tokens-management/overview)_. **Note:** you can_ [_check the state of your request_](check-the-requests-state.md) _and even_ [_update it_ ](update-the-token-creation-request.md)_while it’s pending\)._
+Step 13. Wait for the [admin approval](../../admins/user-issued-tokens-management/review-the-token-creation-request.md) _\(the flow on the part of admin is described in_ [_user tokens management_](../../admins/user-issued-tokens-management/overview.md)_. **Note:** you can_ [_check the state of your request_](check-the-requests-state.md) _and even_ [_update it_ ](update-the-token-creation-request.md)_while it’s pending\)._
 
 In case admin marked your request as **rejected** and described the **reject reason**, you can update it taking to attention the remarks of admin and submit the request again.
 

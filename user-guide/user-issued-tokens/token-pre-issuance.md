@@ -16,5 +16,5 @@ If a user cleared the **I want to make additional issuance later** check box dur
 
 Step 1. User creates the asset pre-issuance file with the help of an offline application _\(to learn more, check_ [_offline application_](../offline-application/overview.md)_\)_  
 Step 2. [User uploads the pre-issuance file to the platform](pre-issuance-file-upload.md)  
-Step 3. User waits for the [admin approval](https://tokend.gitbook.io/product-guide/admins/user-issued-tokens-management/review-the-token-pre-issuance-request) _\(the flow on the part of admin is described in_ [_user tokens management_](https://tokend.gitbook.io/product-guide/admins/user-issued-tokens-management/overview)_\)_
+Step 3. User waits for the [admin approval](../../admins/user-issued-tokens-management/review-the-token-pre-issuance-request.md) _\(the flow on the part of admin is described in_ [_user tokens management_](../../admins/user-issued-tokens-management/overview.md)_\)_
 
