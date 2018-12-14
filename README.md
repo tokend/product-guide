@@ -1,7 +1,4 @@
-# Initial page
+# Product Guide
 
-Overview   
-To make advantage of the platform, a potential investor/token issuer/fundraiser, etc. will be required to perform certain basic steps, namely, register an account and sign in.
-
-In case a user forget or lost the password, there’s a possibility to recover an account using the seed. However, if the seed is lost, then access to the account will be impossible to recover.
+The Product Guide provides an overview of the main [TokenD](https://tokend.io/) features description and notes, functions that are available to [administrators](admins/admin-account/), and comprehensive manuals for [end users](user-guide/user-account/) that help use a specific tool or activity.
 
