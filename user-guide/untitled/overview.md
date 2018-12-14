@@ -4,7 +4,7 @@ TokenD comes with the ready-to-use KYC solutions, which allow identifying [user 
 
 _Depending on the business and regulatory requirements, KYC solutions can be customized or even integrated with the third-party providers._
 
-In this guide, you will get acquainted with the two basic KYC procedures to which users on the platform can apply. _If you want to learn more about the KYC management on the part of the admin of the platform, check_ [_KYC management_](https://tokend.gitbook.io/product-guide/admins/kyc-management/overview)_._
+In this guide, you will get acquainted with the two basic KYC procedures to which users on the platform can apply. _If you want to learn more about the KYC management on the part of the admin of the platform, check_ [_KYC management_](../../admins/kyc-management/overview.md)_._
 
 ### Two basic KYC procedures for users <a id="two-basic-kyc-procedures-for-users"></a>
 
