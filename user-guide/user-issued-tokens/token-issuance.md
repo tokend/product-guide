@@ -3,7 +3,7 @@
 The process of token issuance can also be classified as the distribution of tokens or the process of putting them into circulation. There are two basic ways a user can issue tokens on the platform:
 
 1. Issue coins manually _\(you manually issue \(transfer\) coins to the accounts of other users\)_
-2. [Create a crowdfunding campaign](../crowdfunding-campaigns/crowdfunding-campaign-creation.md) _\(you create your token sale, in which other users on the platform will have an opportunity_ $$a = b$$ _to invest\)_
+2. [Create a crowdfunding campaign](../crowdfunding-campaigns/crowdfunding-campaign-creation.md) _\(you create your token sale, in which other users on the platform will have an opportunity_ _to invest\)_
 
 _**Note:** at this stage, the token should already be_ [_created_](token-creation.md) _and_ [_pre-issued_](token-pre-issuance.md)_._
 
