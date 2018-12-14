@@ -96,7 +96,7 @@
   * [Properties of system assets](admins/system-assets-management/properties-of-system-assets.md)
   * [System asset properties update](admins/system-assets-management/system-asset-properties-update.md)
 * [KYC management](admins/kyc-management/README.md)
-  * [Overview](admins/kyc-management/overview.md)
+  * [Overview---- KYC management](admins/kyc-management/overview.md)
   * [User KYC request](admins/kyc-management/user-kyc-request.md)
   * [Review the KYC request](admins/kyc-management/review-the-kyc-request.md)
   * [Reset user account to unverified](admins/kyc-management/reset-user-account-to-unverified.md)
