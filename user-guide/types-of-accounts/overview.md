@@ -1,4 +1,4 @@
-# Overview toc
+# Overview
 
 The TokenD platform presumes three types of accounts with their general scope of abilities_:_
 
