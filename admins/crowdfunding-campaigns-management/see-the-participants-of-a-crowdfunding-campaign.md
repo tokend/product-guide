@@ -16,5 +16,5 @@ Step 8. In the **Closed deals** list, see the participants’ data:
 
 * Email of an investor
 * Time of investment
-* How many [user-issued tokens](https://tokend.gitbook.io/product-guide/user-guide/user-issued-tokens/overview) have been acquired by the investor
+* How many [user-issued tokens](../../user-guide/user-issued-tokens/overview.md) have been acquired by the investor
 
