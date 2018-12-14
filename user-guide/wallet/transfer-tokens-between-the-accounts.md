@@ -1,6 +1,6 @@
 # Transfer tokens between the accounts
 
-**Note:** you can transfer tokens of both [system assets and user-issued assets](../../admins/system-assets-management/types-of-assets-on-the-platform.md), BUT only if they are transferable**.** Admins and [corporate users](../types-of-accounts/corporate-account.md) define this property when creating the asset _\(admin flow of creating the asset is described in_ [_system assets management_](../../admins/system-assets-management/)_, user flow – in_ [_user-issued tokens_](../user-issued-tokens/overview.md)_\)._
+**Note:** you can transfer tokens of both [system assets and user-issued assets](../../admins/system-assets-management/types-of-assets-on-the-platform.md), BUT only if they are transferable**.** Admins and [corporate users](../types-of-accounts/corporate-account.md) define this property when creating the asset _\(admin flow of creating the asset is described in_ [_system assets management_](https://tokend.gitbook.io/product-guide/admins/system-assets-management/overview)_, user flow – in_ [_user-issued tokens_](../user-issued-tokens/overview.md)_\)._
 
 **Case example:** you want to transfer 10 user-issued tokens \(let’s call them CSTT\) to another address.
 
