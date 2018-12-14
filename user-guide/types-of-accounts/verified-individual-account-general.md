@@ -4,7 +4,7 @@ _**Description:**_ an individual person who has signed up to the platform and pa
 
 _**Scope:**_
 
-* can conduct basic operations with all kinds of assets \([trade](../trade/), [transfer](../wallet/transfer-tokens-between-the-accounts.md), [deposit](../wallet/deposit.md)/[withdraw](../wallet/withdraw.md)\)
+* can conduct basic operations with all kinds of assets \([trade](../trade/overview.md), [transfer](../wallet/transfer-tokens-between-the-accounts.md), [deposit](../wallet/deposit.md)/[withdraw](../wallet/withdraw.md)\)
 * can [participate \(invest\) in all crowdfunding campaigns](../invest/invest-in-crowdfunding-campaigns.md) of corporate users
 * cannot create their tokens and crowdfunding campaigns
 

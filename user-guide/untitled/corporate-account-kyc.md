@@ -1,6 +1,6 @@
 # Corporate account KYC
 
-This verification procedure allows an individual user account to be upgraded to the corporate user account. Corporate users act on behalf of the company, firm, or enterprise. Having passed this procedure, a user gets the possibility to issue their own tokens on the platform _\(To learn more, check_ [_types of accounts in TokenD_](../types-of-accounts/)_\)._
+This verification procedure allows an individual user account to be upgraded to the corporate user account. Corporate users act on behalf of the company, firm, or enterprise. Having passed this procedure, a user gets the possibility to issue their own tokens on the platform _\(To learn more, check_ [_types of accounts in TokenD_](../types-of-accounts/overview.md)_\)._
 
 Potential corporate users are required to prove the legitimacy of their acts on behalf of the legal entity. Generally, the information can be as follows:
 

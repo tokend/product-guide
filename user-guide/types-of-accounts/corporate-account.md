@@ -4,7 +4,7 @@ _**Description:**_ a corporate user who has signed up to the platform and passed
 
 _**Scope:**_
 
-* can conduct basic operations with assets \([trade](https://tokend.gitbook.io/product-guide/user-guide/trade/overview), [transfer](../wallet/transfer-tokens-between-the-accounts.md), [deposit](../wallet/deposit.md)/[withdraw](../wallet/withdraw.md)\)
+* can conduct basic operations with assets \([trade](../trade/overview.md), [transfer](../wallet/transfer-tokens-between-the-accounts.md), [deposit](../wallet/deposit.md)/[withdraw](../wallet/withdraw.md)\)
 * can [participate \(invest\) in crowdfunding campaigns](../invest/invest-in-crowdfunding-campaigns.md) of other corporate users
 * can [create](../user-issued-tokens/token-creation.md), [pre-issue](../user-issued-tokens/token-pre-issuance.md), and [issue](../user-issued-tokens/token-issuance.md) tokens on the platform
 * can [create crowdfunding campaigns](../crowdfunding-campaigns/crowdfunding-campaign-creation.md)
