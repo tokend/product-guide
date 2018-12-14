@@ -1,4 +1,4 @@
-# Overview---- KYC management
+# Overview
 
 The TokenD framework has a built-in toolkit of KYC solutions sufficient for authorizing users on the platform. Yet, depending on your business or regulatory requirements you can customize the KYC process or integrate with the third-party KYC providers.
 

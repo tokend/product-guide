@@ -1,4 +1,4 @@
-# Overview---- User-issued tokens management
+# Overview
 
 Users on the platform can [create](../../user-guide/user-issued-tokens/token-creation.md), [pre-issue](../../user-guide/user-issued-tokens/token-pre-issuance.md), and [issue](../../user-guide/user-issued-tokens/token-issuance.md) tokens and use them for their own purposes, whether it be:
 

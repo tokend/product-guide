@@ -1,4 +1,4 @@
-# Overview CCM
+# Overview
 
 One of the options for users who’ve [created](../../user-guide/user-issued-tokens/token-creation.md) and [pre-issued](../../user-guide/user-issued-tokens/token-pre-issuance.md) their tokens on the platform \(with the approval of admin\) is to create token sales \(aka crowdfunding campaigns\). Users define the terms of their token sale, such as **soft cap** and **hard cap**, **start** and **end time**, **amount** of tokens to sell, etc \(to learn more, check the end-user guide on [crowdfunding campaigns](../../user-guide/crowdfunding-campaigns/overview.md)\).
 
