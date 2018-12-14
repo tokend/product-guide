@@ -1,4 +1,4 @@
-# Keyfile Generation
+# Keyfile generation
 
 Step 1. Launch the offline application  
 Step 2. Click **Generate** the keyfile  

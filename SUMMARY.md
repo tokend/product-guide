@@ -137,7 +137,7 @@
 * [Offline application](admins/offline-application/README.md)
   * [Overview](admins/offline-application/overview.md)
   * [Log in to the offline application](admins/offline-application/log-in-to-the-offline-application.md)
-  * [Keyfile Generation](admins/offline-application/keyfile-generation.md)
+  * [Keyfile generation](admins/offline-application/keyfile-generation.md)
   * [Pre-issuance file generation](admins/offline-application/pre-issuance-file-generation.md)
   * [Pre-issuance file review](admins/offline-application/pre-issuance-file-review.md)
   * [Change asset issuer](admins/offline-application/change-asset-issuer.md)
