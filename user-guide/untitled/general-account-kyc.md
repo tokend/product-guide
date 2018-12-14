@@ -1,6 +1,6 @@
 # General account KYC
 
-This verification procedure allows an **unverified individual** account to be updated to the **verified individual** account _\(only_ [_under the approval of admin_](../../admins/kyc-management/review-the-kyc-request.md)_\). To learn more, check_ [_types of accounts in TokenD_](../types-of-accounts/)_._
+This verification procedure allows an **unverified individual** account to be updated to the **verified individual** account _\(only_ [_under the approval of admin_](../../admins/kyc-management/review-the-kyc-request.md)_\). To learn more, check_ [_types of accounts in TokenD_](../types-of-accounts/overview.md)_._
 
 The scope of operations that will become available for the user after passing the general verification procedure is usually defined by the owner of the platform, as well as the specific information the user has to provide. Generally, the information can be as follows:
 

@@ -10,7 +10,7 @@
   * [Sign in/Sign out](user-guide/user-account/sign-in-sign-out.md)
   * [Account recovery](user-guide/user-account/account-recovery.md)
 * [Types of accounts](user-guide/types-of-accounts/README.md)
-  * [Overview](user-guide/types-of-accounts/overview.md)
+  * [Overview toc](user-guide/types-of-accounts/overview.md)
   * [Unverified account](user-guide/types-of-accounts/unverified-account.md)
   * [Verified individual account \(General\)](user-guide/types-of-accounts/verified-individual-account-general.md)
   * [Corporate account](user-guide/types-of-accounts/corporate-account.md)
