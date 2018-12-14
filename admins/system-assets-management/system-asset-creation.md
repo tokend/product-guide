@@ -18,11 +18,11 @@ Step 11. Select/clear the **Base asset** check box _\(If selected, users will be
 Step 12. Select/clear the **Stats quote asset** check box _\(If selected, users will see their dashboard balance in this specific asset. To learn more, check_ [_properties of system assets_](properties-of-system-assets.md)_.\)_  
 Step 13. Select/clear the **Withdrawable** check box _\(if cleared, users won’t be able to withdraw this asset from the platform\)_  
 Step 14. Select/clear the **Two step withdrawal** checkbox _\(this property significantly increases the security parameter\)_  
-Step 15. Select/clear the **Requires KYC** check box _\(if selected, only users who passed the KYC procedure will be able to operate with this token \(trade/transfer\). To learn more, check_ [_properties of system assets_](https://cryptofund.software/resources/product-guide/admins/system-assets-management/properties-of-system-assets/)_.\)_  
+Step 15. Select/clear the **Requires KYC** check box _\(if selected, only users who passed the KYC procedure will be able to operate with this token \(trade/transfer\). To learn more, check_ [_properties of system assets_](properties-of-system-assets.md)_.\)_  
 Step 16. Select/clear the **Issuance manual review required** check box _\(if selected, the token pre-issuance and issuance requests are to be reviewed by the admin with the asset manager_ [_right_](../admin-account-management/rights-of-admins-on-the-platform.md)_\)_  
 Step 17. Optionally, in the **Advanced** properties, in the **External system type** box, enter the identifier of the pool of addresses for the deposit of digital currencies  
 Step 18. Click **Create asset**  
 Step 19. In the dialogue box, click **Submit**
 
-On the next stage, the token will have to be [pre-issued](https://cryptofund.software/resources/product-guide/admins/system-assets-management/system-asset-pre-issuance/) _\(except that the **initial pre-issued amount** is equal to **maximum tokens** amount\)._
+On the next stage, the token will have to be [pre-issued](system-asset-pre-issuance.md) _\(except that the **initial pre-issued amount** is equal to **maximum tokens** amount\)._
 
