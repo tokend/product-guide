@@ -8,7 +8,7 @@ Step 5. In the **Asset** box, enter the code of the asset you want to issue \(**
 Step 6. Click **Create**  
 Step 7. Name the pre-issuance file and save it \(if required, you can open the generated pre-issuance file in an offline application and [view all the necessary details of pre-issuance](pre-issuance-file-review.md)\)
 
-You will later upload this file on the platform to pre-issue the tokens. **Note:** the [flow of a corporate user](../../user-guide/user-issued-tokens/token-pre-issuance.md) and the [flow of admin](../system-assets-management/system-asset-pre-issuance.md) are different.
+You will later upload this file on the platform to pre-issue the tokens. **Note:** the [flow of a corporate user](../../user-guide/user-issued-tokens/pre-issuance-file-upload.md) and the [flow of admin](../system-assets-management/system-asset-pre-issuance.md) are different.
 
 **Note:** you can see your public key in the upper right corner of the offline application window.
 
