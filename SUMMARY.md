@@ -111,7 +111,7 @@
   * [Block a user](admins/user-management/block-a-user.md)
   * [Unblock a user](admins/user-management/unblock-a-user.md)
 * [Crowdfunding campaigns management](admins/crowdfunding-campaigns-management/README.md)
-  * [Overview](admins/crowdfunding-campaigns-management/overview.md)
+  * [Overview CCM](admins/crowdfunding-campaigns-management/overview.md)
   * [Review the crowdfunding campaign creation request](admins/crowdfunding-campaigns-management/review-the-crowdfunding-campaign-creation-request.md)
   * [Monitor the existing crowdfunding campaigns](admins/crowdfunding-campaigns-management/monitor-the-existing-crowdfunding-campaigns.md)
   * [Details of a crowdfunding campaign](admins/crowdfunding-campaigns-management/details-of-a-crowdfunding-campaign.md)
