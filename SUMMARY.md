@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Product Guide](README.md)
+* [TokenD Product Guide](README.md)
 
 ## End Users
 
