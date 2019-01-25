@@ -74,6 +74,7 @@
   * [Overview](admins/admin-account/overview.md)
   * [Sign up](admins/admin-account/sign-up.md)
   * [Sign in](admins/admin-account/sign-in.md)
+  * [Verification code](admins/admin-account/verification-code.md)
   * [Sign out](admins/admin-account/sign-out.md)
 * [Admin account management](admins/admin-account-management/README.md)
   * [Overview](admins/admin-account-management/overview.md)
